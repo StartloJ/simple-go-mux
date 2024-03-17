@@ -8,7 +8,7 @@ You can ensure source code is available to shifting in containerize-application.
 
 ### Build your app with Dockerfile
 
-We already provided `Dockerfile` in the practical security in parent folder. you can build the docker image.
+We already provided `Dockerfile` in the practical security in parent folder. you can build the docker image or you can pull this image from [docker hub](https://hub.docker.com/r/dukecyber/simple-go-mux).
 
 For docker:
 
